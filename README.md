@@ -3,9 +3,9 @@
 ## Check https://github.com/darmaproject/wiki/wiki
 
 ## Note
-* The Darma Cash Project is an experimental project. We cannot guarantee that everything we want to do will be successful. Therefore, There are uncertainties in the development process of the Darma Cash project. For the time being, the Darma Cash Project has not reached any cooperation or obtained any funds with any other parties except the 3% pre-mine tokens, which is donated to community by project team at June, 2020.   
+* The Darma Cash Project is an experimental project. We cannot guarantee that everything we want to do will be successful. There are uncertainties during the development of the Darma Cash project. For the time being, the Darma Cash Project has not reached any cooperation or obtained any funds with any other parties, and the 3% pre-mine tokens are donated to the community by the project team in June 2020.
 Keep in mind that Darma Cash is decentralized project and everything is on chain.   
-Don't blindly trust any platform or anyone.    
+Don't blindly trust any platform or anyone.  
 
 * The DMCH project is an experimental blockchain project. The cutting-edge technology that DMCH is trying to develop may be terminated due to technical limitations, policy factors, or other force majeure.
 
